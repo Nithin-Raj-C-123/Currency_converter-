@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Read your HTML file
-with open("index.html", "r", encoding="utf-8") as f:
+with open("main.html", "r", encoding="utf-8") as f:
     html = f.read()
 
 # Display the HTML
